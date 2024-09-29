@@ -53,13 +53,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/shade/enthada.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `enthada.sh` -
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+  $ cd nink link veno
+  $ bash enthada.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
